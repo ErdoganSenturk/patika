@@ -1,2 +1,2 @@
 # patika
-patika kurs
+www.patika.dev
