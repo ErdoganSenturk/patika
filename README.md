@@ -1,2 +1,2 @@
 # patika
-www.patika.dev
+
